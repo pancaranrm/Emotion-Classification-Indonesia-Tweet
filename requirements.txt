@@ -1,0 +1,18 @@
+# Core ML & Data Handling
+torch
+accelerate
+pandas
+scikit-learn
+numpy
+seaborn
+matplotlib
+
+# NLP Libraries
+transformers
+sastrawi
+
+# Imbalanced Data Handling
+imblearn
+
+# For downloading models from Hugging Face
+huggingface_hub
